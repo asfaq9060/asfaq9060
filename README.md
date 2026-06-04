@@ -1,16 +1,17 @@
-## Hi there 👋
+💫 About Me:
+• 🎓 Final Year B.Tech Student | Aspiring MERN Stack Developer
+• 🔭 Building Full-Stack Web Applications with React, Node.js, Express, and MongoDB
+• 💼 Seeking Internship and Full-Time Opportunities in MERN Stack Development
+• 🌱 I’m currently learning Advanced React, Node.js, System Design, and DSA
+• 👯 Open to collaborating on Open Source and AI-powered Projects
+• 💬 Ask me about JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs, and Git
+• 🚀 Interested in Full-Stack Development, Generative AI, and Software Engineering
+• ⚡ Fun fact: I love turning innovative ideas into real-world web applications using modern technologies
 
-<!--
-**asfaq9060/asfaq9060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram LinkedIn email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C++ CSS3 HTML5 C JavaScript AWS Netlify Bootstrap Context-API Express.js FastAPI NodeJS Redux React Router React MySQL MongoDB Adobe Adobe Lightroom Canva Figma Git GitHub Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
