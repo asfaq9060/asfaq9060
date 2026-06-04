@@ -1,17 +1,10 @@
-💫 About Me:
-• 🎓 Final Year B.Tech Student | Aspiring MERN Stack Developer
-• 🔭 Building Full-Stack Web Applications with React, Node.js, Express, and MongoDB
-• 💼 Seeking Internship and Full-Time Opportunities in MERN Stack Development
-• 🌱 I’m currently learning Advanced React, Node.js, System Design, and DSA
-• 👯 Open to collaborating on Open Source and AI-powered Projects
-• 💬 Ask me about JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs, and Git
-• 🚀 Interested in Full-Stack Development, Generative AI, and Software Engineering
-• ⚡ Fun fact: I love turning innovative ideas into real-world web applications using modern technologies
+# 💫 About Me:
+• 🎓 Final Year B.Tech Student | Aspiring MERN Stack Developer<br>• 🔭 Building Full-Stack Web Applications with React, Node.js, Express, and MongoDB<br>• 💼 Seeking Internship and Full-Time Opportunities in MERN Stack Development<br>• 🌱 I'm currently learning Advanced React, Node.js, System Design, and DSA<br>• 👯 Open to collaborating on Open Source and AI-powered Projects<br>• 💬 Ask me about JavaScript, React.js, Node.js, Express.js, MongoDB, REST APIs, and Git<br>• 🚀 Interested in Full-Stack Development, Generative AI, and Software Engineering<br>• ⚡ Fun fact: I love turning innovative ideas into real-world web applications using modern technologies
 
-🌐 Socials:
-Instagram LinkedIn email
 
-💻 Tech Stack:
-C++ CSS3 HTML5 C JavaScript AWS Netlify Bootstrap Context-API Express.js FastAPI NodeJS Redux React Router React MySQL MongoDB Adobe Adobe Lightroom Canva Figma Git GitHub Portfolio
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/md_asfaq07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/asfaq-ansari1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asfaque.aansari@gmail.com) 
 
-📊 GitHub Stats:
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
